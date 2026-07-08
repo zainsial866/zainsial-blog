@@ -1,0 +1,14 @@
+site:
+  title: Zain Sial
+  url: https://zainsial866.github.io/zainsial-blog
+
+publish:
+  github_pages: true
+  devto: true
+  hashnode: true
+  bluesky: true
+
+articles:
+  drafts: articles/drafts
+  scheduled: articles/scheduled
+  published: articles/published
